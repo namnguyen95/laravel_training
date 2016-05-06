@@ -1,1 +1,1 @@
-# New bie GIT ! 
+# New bie 2 GIT ! 
