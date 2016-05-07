@@ -1,1 +1,1 @@
-# New bie 2 GIT ! 
+# Learning Laravel 5.x ! 
