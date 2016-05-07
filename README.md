@@ -1,1 +1,1 @@
-# Test a folder
+# New bie 2 GIT ! 
